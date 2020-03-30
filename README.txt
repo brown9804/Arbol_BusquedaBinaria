@@ -1,4 +1,4 @@
-Binary Search Tree en C++
+Binary Search Tree, o bien, Árbol de búsqueda binaria en C++
 Junio 2019
 
 Para ejecutar el programa es ir a la carpeta mediante su consola o terminal al folder
